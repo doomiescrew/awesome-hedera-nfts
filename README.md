@@ -26,6 +26,7 @@ Table of Contents
 - [HashTools](https://twitter.com/HederaTools) - [website](https://hashtools.io/launchpad)
 - [Turtle Moon](https://twitter.com/TurtleMoonCC) - [website](https://www.turtlemoon.io/)
 - [DPub](https://twitter.com/dpubxyz) - [website](https://dpub.xyz/)
+- [BHC Launchpad](https://twitter.com/boredhashclub) - [website](https://launchpad.boredhashclub.io/)
 
 ### Wallets
 - [HashPack](https://twitter.com/HashPackApp) - [website](https://www.hashpack.app/)
@@ -38,6 +39,7 @@ Table of Contents
 
 - [Dead Pixels Club](https://twitter.com/deadpixels_club) - [website](http://deadpixels.club)
 - [Hangry Barboons](https://twitter.com/HangryBarboons) - [website](http://HangryBarboons.com)
+- [Bored Hash Club](https://twitter.com/BoredHashClub) - [website](http://boredhashclub.io)
 - [doomies](https://twitter.com/doomiesnft) - [website](https://doomies.rip)
 - [Koala Klub](https://twitter.com/KoalaHashKlub)
 - [HBAR SHADYZ](https://twitter.com/HBAR_SHADYz) - [website](https://www.mintchokchipnft.com/)
